@@ -30,7 +30,7 @@ from langgraph.graph import END, START, StateGraph
 
 load_dotenv()
 
-MAX_RETRIES = 2
+MAX_RETRIES = 3
 
 # --------------------------------------------------------------------------
 # LLM (one model for every agent)
