@@ -2,6 +2,20 @@
 
 An agentic research workflow built with LangGraph, LangChain, OpenRouter, and DuckDuckGo search. It plans a research question, gathers web findings, critiques the results, retries incomplete research, and generates a cited Markdown report.
 
+## Screenshots
+
+### Research question and report
+
+![Research question and generated report](Screenshot%202026-10-05%20142718.png)
+
+### Agent reasoning and research findings
+
+![Agent reasoning and research findings](Screenshot%202026-10-05%20142811.png)
+
+### Critic and decision steps
+
+![Critic and decision steps](Screenshot%202026-10-05%20142829.png)
+
 ## Requirements
 
 - Python 3.10 or newer
